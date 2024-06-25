@@ -66,3 +66,25 @@ h1{
     }
 
   }
+  @media only screen and (max-width: 510px){
+
+    h1{
+        font-size: 40px;
+        
+    }
+    .subtitulo{
+        width: 350px;
+
+    }
+  }
+  @media only screen and (max-width: 368px){
+
+    h1{
+        font-size: 30px;
+        
+    }
+    .subtitulo{
+        width: 250px;
+
+    }
+  }
